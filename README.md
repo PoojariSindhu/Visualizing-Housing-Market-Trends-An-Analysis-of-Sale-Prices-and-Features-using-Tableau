@@ -1,6 +1,7 @@
 # Visualizing-Housing-Market-Trends-An-Analysis-of-Sale-Prices-and-Features-using-Tableau
 
 🏠 Visualizing Housing Market Trends using Tableau
+
 📌 Project Purpose
 
 The purpose of this project is to analyze and visualize housing market trends by transforming complex real estate datasets into interactive dashboards and meaningful insights using Tableau and a Flask-based web application.
