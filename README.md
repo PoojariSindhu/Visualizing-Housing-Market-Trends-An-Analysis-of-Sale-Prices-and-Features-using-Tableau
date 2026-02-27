@@ -66,7 +66,7 @@ Dataset:
 https://www.kaggle.com/datasets/rituparnaghosh18/transformed-housing-data-2
 
 Demo Video:
-https://drive.google.com/file/d/1IGLvhBLXe5NOn9OO7a1doRWx5Ya8tTmf/view
+https://drive.google.com/file/d/1BfK_mb--IXLTTRZqNkV-5Zb-BYOCghMc/view
 
 👨‍💻 Team Members
 
@@ -77,8 +77,6 @@ Poojari Sindhu
 Shaik Naseera
 
 Siva Tejaswini
-
-Faculty Mentor: T. Santosh Kumar Reddy
 
 🏁 Conclusion
 
